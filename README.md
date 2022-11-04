@@ -1,5 +1,9 @@
 # ecommerceDashboard
 
+## Instalação
+Install IntelliJ IDEA --
+Docker
+
 # Ferramentas 
 Spring boot, Hibernate,Jpa 
 , Jwt, swagger
