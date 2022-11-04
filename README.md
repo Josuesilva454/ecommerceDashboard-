@@ -4,7 +4,7 @@
 Spring boot, Hibernate,Jpa 
 , Jwt, swagger
 
-# Casos de usos
+# Casos de uso
 ![Untitled Workspace](https://user-images.githubusercontent.com/84036932/199880269-02f59737-b46c-4a62-bf13-8a48ffd3c8e9.png)
 
 
